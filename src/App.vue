@@ -32,6 +32,5 @@ const products = ref([
   { id: 2, name: '抹茶生巧克力', price: 420, image: '' },
   { id: 3, name: '榛果可可球', price: 250, image: '' },
   { id: 4, name: '莓果巧克力磚', price: 300, image: '' },
-  { id: 5, name: '黑巧克力', price: 320, image: '' },
 ])
 </script>
