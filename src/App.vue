@@ -33,5 +33,6 @@ const products = ref([
   { id: 3, name: '榛果可可球', price: 250, image: '' },
   { id: 4, name: '莓果巧克力磚', price: 300, image: '' },
   { id: 5, name: '黑巧克力磚', price: 300, image: '' },
+  { id: 5, name: '白巧克力磚', price: 300, image: '' },
 ])
 </script>
